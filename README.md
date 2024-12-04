@@ -1,4 +1,5 @@
 ## This mod requires you to use Herbata's Mod-as-DLC loader tool found [here.](https://github.com/herbatka/HerbatasDLCModLoader)
+## Unfortunately with how the game's code acts now, the Technicians upgrade trees only refresh after creating a new save, so you won't be able to apply the upgrade unless you start a new one.
 
 # Features
 This mod adds a brand new upgrade to the Technician's upgrade tree, the fully custom conversion to 9x18 Makarov.
